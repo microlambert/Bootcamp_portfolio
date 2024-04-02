@@ -3,4 +3,4 @@ In this repository you'll find my portfolio project created as part of a Cambrid
 
 bus_count_final.ipynb - Jupyter notebook
 
-Calculating scheduled bus volumes from the TfL API using Python.pdf – presentation about the project
+Calculating scheduled bus volumes from an API using Python.pdf – presentation about the project
